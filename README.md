@@ -17,3 +17,4 @@ Please utilize and share this comprehensive list to stay well-informed, contribu
 | Bob Johnson | @bobjohnson      | [Twitter Profile](https://twitter.com/bobjohnson)| Promoting extremist ideologies and racism          |
 
 To contribute to this list or raise concerns, please get in touch. Remember, the best way to stay off this list is to provide accurate and updated information. Do your research and ensure relevance before posting.
+They may also not attend the party.
