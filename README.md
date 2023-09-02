@@ -12,7 +12,7 @@ Please utilize and share this comprehensive list to stay well-informed, contribu
 
 | Name        | Twitter Handle   | Profile Link                                       |
 |-------------|-------------------|---------------------------------------------------|
-| John Doe    | @johndoe         | [Twitter Profile](https://twitter.com/johndoe)   |
+| Shwamos     | @shwamos         | [Twitter Profile](https://twitter.com/shwamos)   |
 | Jane Smith  | @janesmith       | [Twitter Profile](https://twitter.com/janesmith) |
 | Bob Johnson | @bobjohnson      | [Twitter Profile](https://twitter.com/bobjohnson)|
 
