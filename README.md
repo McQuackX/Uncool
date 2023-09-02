@@ -15,3 +15,7 @@ Please utilize and share this comprehensive list to stay well-informed, contribu
 | John Doe    | @johndoe         | [Twitter Profile](https://twitter.com/johndoe)   |
 | Jane Smith  | @janesmith       | [Twitter Profile](https://twitter.com/janesmith) |
 | Bob Johnson | @bobjohnson      | [Twitter Profile](https://twitter.com/bobjohnson)|
+
+
+
+To contribute to this list or raise concerns, please get in touch. Remember, the best way to stay off this list is to provide accurate and updated information. Do your research and ensure relevance before posting.
