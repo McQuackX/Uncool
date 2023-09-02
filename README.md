@@ -10,12 +10,10 @@ Please utilize and share this comprehensive list to stay well-informed, contribu
 
 ## Uncool List
 
-| Name        | Twitter Handle   | Profile Link                                       |
-|-------------|-------------------|---------------------------------------------------|
-| Shwamos     | @shwamos         | [Twitter Profile](https://twitter.com/shwamos)   |
-| Jane Smith  | @janesmith       | [Twitter Profile](https://twitter.com/janesmith) |
-| Bob Johnson | @bobjohnson      | [Twitter Profile](https://twitter.com/bobjohnson)|
-
-
+| Name        | Twitter Handle   | Profile Link                                       | Reason                                            |
+|-------------|-------------------|---------------------------------------------------|---------------------------------------------------|
+| Shwamos     | @shwamos         | [Twitter Profile](https://twitter.com/shwamos)   | Posting outdated and inaccurate information        |
+| Jane Smith  | @janesmith       | [Twitter Profile](https://twitter.com/janesmith) | Engaging in sexist and controversial behavior     |
+| Bob Johnson | @bobjohnson      | [Twitter Profile](https://twitter.com/bobjohnson)| Promoting extremist ideologies and racism          |
 
 To contribute to this list or raise concerns, please get in touch. Remember, the best way to stay off this list is to provide accurate and updated information. Do your research and ensure relevance before posting.
