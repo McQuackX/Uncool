@@ -14,6 +14,6 @@ Please utilize and share this comprehensive list to stay well-informed, contribu
 |-------------|-------------------|---------------------------------------------------|---------------------------------------------------|
 | Shwamos     | @shwamos         | [Twitter Profile](https://twitter.com/shwamos)   | Posting outdated and inaccurate information        |
 | Scams are bad (ScamDaddy𝕏) | @ScamDetective5  | [Twitter Profile](https://twitter.com/ScamDetective5)| Calling themselves "daddy"                       |
-| MB220       | @therealMB220    | [Twitter Profile](https://twitter.com/therealMB220) | Engaging in behavior not in line with respectful and appropriate communication |
+| MB220       | @therealMB220    | [Twitter Profile](https://twitter.com/therealMB220) | Engaging in behavior not in line with respectful and appropriate communication, probably not out the closet yet |
 
 To contribute to this list or raise concerns, please get in touch. Remember, the best way to stay off this list is to provide accurate and updated information. Do your research and ensure relevance before posting.
