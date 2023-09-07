@@ -14,9 +14,8 @@ Please utilize and share this comprehensive list to stay well-informed, contribu
 |-----------------|-------------------|-------------------------------------------------------|--------------------------|
 | Shwamos         | @shwamos           | [Twitter Profile](https://twitter.com/shwamos)       | Posting outdated and inaccurate information        |
 | Scams are bad (ScamDaddy𝕏) | @ScamDetective5  | [Twitter Profile](https://twitter.com/ScamDetective5) | Calling themselves "daddy"                       |
-| MB220           | @therealMB220      | [Twitter Profile](https://twitter.com/therealMB220)   |                          |
+| MB220           | @therealMB220      | [Twitter Profile](https://twitter.com/therealMB220)   | Being inappropriate       |
 | BenArmstrongsX  | @BenArmstrongsX    | [Twitter Profile](https://twitter.com/BenArmstrongsX)| $Ben Nation              |
-
 
 
 Engaging in behavior not in line with respectful and appropriate communication, probably not out the closet yet |
